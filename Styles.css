@@ -9,12 +9,17 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 2rem;
+    padding: 1rem;
     background-color:lightskyblue;
     color:navy;
     margin:0;
 }
 
+h1{
+    border: 2px solid navy;
+    border-block-style: 150px;
+    padding: 1rem;
+}
 nav ul {
 
     display: flex;
