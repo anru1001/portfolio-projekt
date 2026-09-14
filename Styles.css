@@ -17,7 +17,7 @@ header {
 
 h1{
     border: 2px solid navy;
-    border-block-style: 150px;
+    border-block: 150px;
     padding: 1rem;
 }
 nav ul {
